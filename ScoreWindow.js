@@ -14,6 +14,7 @@
 *
 * TERMS OF USE
 *
+* - Uso comercial:
 * - Uso não-comercial;
 * - Mencionar os autores nos créditos do projecto.
 *
